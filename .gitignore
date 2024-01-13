@@ -35,8 +35,11 @@ CTestTestfile.cmake
 _deps
 .env
 .fid
-_build
 
+*.egg-info/
+_build
+build/
 dist/
+
 .*~
 *~

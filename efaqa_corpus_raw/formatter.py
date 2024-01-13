@@ -80,6 +80,10 @@ def parse_chats(doc):
         if "avatar" in x: del x["avatar"]
         if "type" in x: del x["type"]
 
+
+        if (not "value" in x) or (not x["value"].strip()):
+            continue
+
         chats.append(x)
 
     # print("parsed chats", len(chats))
