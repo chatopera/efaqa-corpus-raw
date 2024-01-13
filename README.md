@@ -1,3 +1,12 @@
+
+心理咨询相关语料库：
+
+| 语料库 | 地址 | 描述 |
+| --- | --- | --- |
+| 心理咨询问答语料库 | [GitHub](https://github.com/chatopera/efaqa-corpus-zh), [Gitee](https://gitee.com/chatopera/efaqa-corpus-zh) | 人工标注的多轮对话 |
+| 心理咨询问答原始语料库 | [GitHub](https://github.com/chatopera/efaqa-corpus-raw), [Gitee](https://gitee.com/chatopera/efaqa-corpus-raw) | 爬取后未标注的原始语料 |
+
+
 # Emotional First Aid Raw Dataset
 
 让人工智能技术更好的服务于人类。
@@ -165,7 +174,7 @@ for conversation in data:
 
 ## 声明
 
-**本数据集不得再次销售或分享给除购买者以外的人、组织，如发生上述行为，本公司会进行积极的维权，侵权者承担法律和经济责任。**尊重知识产权，人人有责。
+**本数据集不得再次销售或分享给除购买者以外的人、组织，如发生上述行为，本公司会进行积极的维权，侵权者承担法律和经济责任。** 尊重知识产权，人人有责。
 
 数据和程序可用于研究，必须注明引用和地址，比如发布的任何媒体、期刊、杂志或博客等内容。
 
