@@ -9,6 +9,8 @@
 
 # Emotional First Aid Raw Dataset
 
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/efaqa-corpus-raw.svg)](https://pypi.python.org/pypi/efaqa-corpus-raw/) [![PyPI download month](https://img.shields.io/pypi/dm/efaqa-corpus-raw.svg)](https://pypi.python.org/pypi/efaqa-corpus-raw/) [![PyPI version shields.io](https://img.shields.io/pypi/v/efaqa-corpus-raw.svg)](https://pypi.python.org/pypi/efaqa-corpus-raw/)  [![License](https://cdndownload2.chatopera.com/cskefu/licenses/chunsong1.0.svg)](https://www.cskefu.com/licenses/v1.html "开源许可协议")
+
 让人工智能技术更好的服务于人类。
 <div align=left>
 
